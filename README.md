@@ -26,7 +26,7 @@ A fast-paced 3D space shooter featuring mouse-aimed laser fire, enemy waves, cin
 
 <h2 id="demo">🎮 플레이 영상</h2>
 
-* ▶️ **Gameplay Video**: 준비 중
+* ▶️ **Gameplay Video**: [플레이 영상](https://youtu.be/HmTv7Zuc77k)
 
 > 마우스 위치로 실시간 조준, 클릭 시 레이저 발사. 적은 파티클 충돌 판정을 통해 파괴되고 점수가 누적됩니다.
 
