@@ -156,4 +156,4 @@ Unity Hub에서 프로젝트 열기 → 패키지 자동 복구 → `Assets/Scen
 <h2 id="contact">📬 연락처 / Contact</h2>
 
 * **이메일**: [rladuan612@gmail.com](mailto:rladuan612@gmail.com)
-* **포트폴리오**: [https://www.naver.com](https://www.naver.com)
+* **포트폴리오**: [https://www.naver.com](https://url.kr/udlyav)
